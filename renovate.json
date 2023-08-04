@@ -3,7 +3,6 @@
   "extends": [
     "local>RahulGautamSingh-testing/renovate-config"
   ],
-  "enabledManagers": ["custom.regex"],
   "regexManagers": [
     {
       "description": "Update install-* Buildpack commands in Dockerfiles",
